@@ -13,3 +13,6 @@ District
 Crime Type
 
 The system is built using Flask, Python, HTML, CSS, JavaScript, and machine learning libraries to deliver an easy-to-use and responsive crime analytics platform.
+
+
+The screenshots of project and the observation images are added in the code.
